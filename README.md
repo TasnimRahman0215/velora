@@ -1,2 +1,2 @@
 # velora
-This is a personal finance tracker app. It tracks spending of personal finances. It also splits household bills with roommates.
+This is a personal finance tracker app. It tracks personal finances and also splits household bills with roommates.
